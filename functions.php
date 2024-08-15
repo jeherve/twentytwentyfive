@@ -1,6 +1,6 @@
 <?php
 /**
- * Twenty Twenty-Five functions and definitions and a change
+ * Twenty Twenty-Five functions and definitions and a change.
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
